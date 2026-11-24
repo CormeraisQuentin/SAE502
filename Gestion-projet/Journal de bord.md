@@ -13,3 +13,18 @@ Auteur : **Esteban**
 - Identification du contexte général de KerLogis
 - Identification des premières problématiques de l'infrastructure informatique
 - Définition des premiers axes de travail
+
+## Séance 2 - 24/11/2026
+
+### Cadrage du projet et préparation de la Release R0
+
+Auteur : **Kylian**
+
+#### Travaux réalisés
+- Identification et documentation des parties prenantes internes et externes
+- Rédaction de parcours utilisateurs représentatifs des besoins de KerLogis :
+  - Employé d'entrepôt
+  - Administrateur informatique
+  - Administrateur informatique et déploiement
+- Envoie des questions à poser au Product Owner pour clarifier les besoins et les priorités du client
+- Réflexion sur les premières tâches à intégrer au tableau Kanban
